@@ -13,4 +13,4 @@
 
 | # | Problem | Difficulty | Topics | Java | Python | C++ |
 | ---- | --- | ------- |--- | ------- |--- | ------- |
-| 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | Medium  | [Math] [Two Pointers] [Binary Search] | [java](code/SumOfSquareNumbers/SumOfSquareNumbers.java) |  |  |
+| 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | Medium  | [Math]() [Two Pointers]() [Binary Search]() | [java](code/SumOfSquareNumbers/SumOfSquareNumbers.java) |  |  |
