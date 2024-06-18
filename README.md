@@ -11,7 +11,7 @@
 
 ## Problems
 
-| # | Problem | Difficulty | Topics | Java | Python | C++ |
+| # | Problem | Difficulty | Topics | Java | Python | C++ &nbsp; |
 | - | ------- | --------- |------- | ---- |------- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | [Array]() [HashTable]() | [java](code/TwoSum/TwoSum.java) | [py](code/TwoSum/TwoSum.py) |  |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
