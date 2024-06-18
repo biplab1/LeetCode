@@ -4,10 +4,10 @@
 
 ## Progress
 
-* All: 515/3187 (16.16%)
-* Easy: 314/803 (39.10%)
-* Medium: 181/1674 (10.81%)
-* Hard: 20/710 (2.81%)
+* All: 516/3187
+* Easy: 314/803
+* Medium: 182/1674
+* Hard: 20/710
 
 ## Problems
 
@@ -17,4 +17,4 @@
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
 | 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | [Array]() [Dynamic Programming]() [Greedy]() [Sorting]() | [java](code/Non-OverlappingIntervals/Non-OverlappingIntervals.java) |  |  |
 | 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | Medium  | [Math]() [Two Pointers]() [Binary Search]() | [java](code/SumOfSquareNumbers/SumOfSquareNumbers.java) |  |  |
-
+| 826  | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium  | [Array]() [Two Pointers]() [Binary Search]() [Greedy]() [Sorting]()| [java](code/MostProfitAssigningWork/MostProfitAssigningWork.java) |  |  |
