@@ -1,13 +1,9 @@
 # LeetCode
 
-* Updated Daily
+* ![Static Badge](https://img.shields.io/badge/Updated-Daily-green)
 
 ## Progress
-
-* All: 522/3189
-* Easy: 315/803
-* Medium: 187/1675
-* Hard: 20/711
+![Leetcode Stats](https://leetcard.jacoblin.cool/biplabdutta27)
 
 ## Problems
 
