@@ -3,7 +3,7 @@
 * ![Static Badge](https://img.shields.io/badge/Updated-Daily-green)
 
 ## Progress
-![Leetcode Stats](https://leetcard.jacoblin.cool/biplabdutta27)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/biplabdutta27)](https://leetcode.com/biplabdutta27)
 
 ## Problems
 
