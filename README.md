@@ -4,10 +4,10 @@
 
 ## Progress
 
-* All: 520/3187
+* All: 522/3189
 * Easy: 315/803
-* Medium: 185/1674
-* Hard: 20/710
+* Medium: 187/1675
+* Hard: 20/711
 
 ## Problems
 
@@ -22,6 +22,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Easy | [Math]() | [java](code/PalindromeNumber/PalindromeNumber.java) | [py](code/PalindromeNumber/PalindromeNumber.py) |  |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Medium | [Array]() [Two Pointers]() [Greedy]() | [java](code/ContainerWithMostWater/ContainerWithMostWater.java) | [py](code/ContainerWithMostWater/ContainerWithMostWater.py) |  |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | [Array]() [Dynamic Programming]() [Greedy]() [Sorting]() | [java](code/Non-OverlappingIntervals/Non-OverlappingIntervals.java) |  |  |
