@@ -25,6 +25,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium | [Linked List]() [Two Pointers]() | [java](code/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java) | [py](code/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.py) |  |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | [String]() [Stack]() | [java](code/ValidParentheses/ValidParentheses.java) | [py](code/ValidParentheses/ValidParentheses.py) |  |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | [Linked List]() [Recursion]() | [java](code/MergeTwoSortedLists/MergeTwoSortedLists.java) |  |  |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium | [String]() [Dynamic Programming]() [Backtracking]() | [java](code/GenerateParentheses/GenerateParentheses.java) |  |  |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
