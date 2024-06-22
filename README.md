@@ -18,6 +18,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Easy | [Math]() | [java](code/PalindromeNumber/PalindromeNumber.java) | [py](code/PalindromeNumber/PalindromeNumber.py) |  |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Medium | [Array]() [Two Pointers]() [Greedy]() | [java](code/ContainerWithMostWater/ContainerWithMostWater.java) | [py](code/ContainerWithMostWater/ContainerWithMostWater.py) |  |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | Easy | [Hash Table]() [Maths]() [String]() |  | [py](code/RomanToInteger/RomanToInteger.py) |  |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [String]() [Trie]() |  |  | [cpp](code/LongestCommonPrefix/LongestCommonPrefix.cpp) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
