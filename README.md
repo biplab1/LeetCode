@@ -22,6 +22,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Medium | [Array]() [Two Pointers]() [Sorting]() | [java](code/3Sum/3Sum.java) |  |  |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | Medium | [Array]() [Two Pointers]() [Sorting]() | [java](code/3SumClosest/3SumClosest.java) |  |  |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/description/) | Medium | [Array]() [Two Pointers]() [Sorting]() | [java](code/4Sum/4Sum.java) |  |  |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium | [Linked List]() [Two Pointers]() | [java](code/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java) | [py](code/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.py) |  |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
