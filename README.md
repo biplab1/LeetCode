@@ -28,6 +28,7 @@
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium | [String]() [Dynamic Programming]() [Backtracking]() | [java](code/GenerateParentheses/GenerateParentheses.java) |  |  |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Hard | [Linked List]() [Divide and Conquer]() [Heap (Priority Queue)]() [Merge Sor]() | [java](code/MergeKSortedLists/MergeKSortedLists.java) |  |  |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | Medium | [Linked List]() [Recursion]() | [java](code/SwapNodesInPairs/SwapNodesInPairs.java) |  |  |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Easy | [Array]() [Two Pointers]() |  |  | [cpp](code/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
