@@ -12,4 +12,3 @@ class Solution:
                 j = mid - 1
                 
         return i
-                
