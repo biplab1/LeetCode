@@ -1,3 +1,7 @@
+/*
+ * Method 1.0:
+ */
+
 class Solution {
     List<List<Integer>> result;
 
@@ -26,7 +30,7 @@ class Solution {
 }
 
 /*
-Method 2: 
+Method 1.1: 
 
 class Solution {
     List<List<Integer>> result;
