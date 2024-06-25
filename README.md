@@ -37,6 +37,7 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy | [Array]() [Binary Search]() |  | [py](code/SearchInsertPosition/SearchInsertPosition.py) |  |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Medium | [Array]() [Backtracking]() | [java](code/CombinationSum/CombinationSum.java) |  |  |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | Medium | [Array]() [Backtracking]() | [java](code/CombinationSumII/CombinationSumII.java) |  |  |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | Hard | [Array]() [Hash Table]() | [java](code/FirstMissingPositive/FirstMissingPositive.java) |  |  |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
