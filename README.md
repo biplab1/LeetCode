@@ -40,6 +40,7 @@
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | Hard | [Array]() [Hash Table]() | [java](code/FirstMissingPositive/FirstMissingPositive.java) |  |  |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | Hard | [Array]() [Two Pointers]() [Dynamic Programming]() [Stack]() [Monotonic Stack]() | [java](code/TrappingRainWater/TrappingRainWater.java) |  |  |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium | [Array]() [Backtracking]() | [java](code/Permutations/Permutations.java) |  |  |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | Medium | [Array]() [Math]() [Matrix]() | [java](code/RotateImage/RotateImage.java) |  |  |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
