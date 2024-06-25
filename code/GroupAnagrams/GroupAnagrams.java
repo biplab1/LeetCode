@@ -1,6 +1,6 @@
 
 /*
-Method 3: using sorting and hashmap
+Method 1: using sorting and hashmap
 */
 
 class Solution {
@@ -66,7 +66,7 @@ class Solution {
 */
 
 /*
-Method 1: Brute force
+Method 3: Brute force
 */
 
 /*
