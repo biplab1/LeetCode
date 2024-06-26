@@ -44,6 +44,7 @@
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | [Array]() [Hash Table]() [String]() [Sorting]() | [java](code/GroupAnagrams/GroupAnagrams.java) |  |  |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Medium | [Array]() [Divide and Conquer]() [Dynamic Programming]() | [java](code/MaximumSubarray/MaximumSubarray.java) | [py](code/MaximumSubarray/MaximumSubarray.py) |  |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [Array]() [Matrix]() [Simulation]() | [java](code/SpiralMatrix/SpiralMatrix.java) |  |  |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | Medium | [Array]() [Sorting]() | [java](code/MergeIntervals/MergeIntervals.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
