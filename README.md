@@ -52,6 +52,7 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | Easy | [Array]() [Math]() | [java](code/PlusOne/PlusOne.java) | [py](code/PlusOne/PlusOne.py) |  |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | Easy | [Math]() [String]() [Bit Manipulation]() [Simulation]() | [java](code/AddBinary/AddBinary.java) |  |  |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy | [Math]() [Binary Search]() | [java](code/Sqrt(x)/Sqrt(x).java) |  |  |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy | [Math]() [Dynamic Programming]() [Memoization]() | [java](code/ClimbingStairs/ClimbingStairs.java) | [py](code/ClimbingStairs/ClimbingStairs.py) |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
