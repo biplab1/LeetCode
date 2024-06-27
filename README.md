@@ -50,7 +50,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium | [Linked List]() [Two Pointers]() | [java](code/RotateList/RotateList.java) |  |  |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium | [Math]() [Dynamic Programming]() [Combinatorics]() | [java](code/UniquePaths/UniquePaths.java) |  |  |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | Easy | [Array]() [Math]() | [java](code/PlusOne/PlusOne.java) | [py](code/PlusOne/PlusOne.py) |  |
-| 67 | [Plus One](https://leetcode.com/problems/plus-one/description/) | Easy | [Array]() [Math]() | [java](code/PlusOne/PlusOne.java) | [py](code/PlusOne/PlusOne.py) |  |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | Easy | [Math]() [String]() [Bit Manipulation]() [Simulation]() | [java](code/AddBinary/AddBinary.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
