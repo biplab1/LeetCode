@@ -1,5 +1,5 @@
 /*
-Method 2: Using DP
+Method 1: Using DP
 TC: O(m * n)
 SC: O(m * n)
 */
@@ -21,7 +21,7 @@ class Solution {
 
 
 /*
-Method 1: Combinatorics
+Method 2: Combinatorics
 TC: Min(m, n)
 SC: O(1)
 */
