@@ -48,6 +48,7 @@
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | Medium | [Array]() | [java](code/InsertInterval/InsertInterval.java) |  |  |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | Easy | [String]() | [java](code/InsertInterval/InsertInterval.java) |  |  |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium | [Linked List]() [Two Pointers]() | [java](code/RotateList/RotateList.java) |  |  |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium | [Math]() [Dynamic Programming]() [Combinatorics]() | [java](code/UniquePaths/UniquePaths.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
