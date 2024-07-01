@@ -61,6 +61,7 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | [Array]() [Backtracking]() [Bit Manipulation]() | [java](code/Subsets/Subsets.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | Medium | [Array]() [Two Pointers]() |  |  | [cpp](code/RemoveDuplicatesFromSortedArrayII/RemoveDuplicatesFromSortedArrayII.cpp) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | Easy | [Linked List]() | [java](code/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | [Array]() [Dynamic Programming]() [Greedy]() [Sorting]() | [java](code/Non-OverlappingIntervals/Non-OverlappingIntervals.java) |  |  |
