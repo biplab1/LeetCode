@@ -58,6 +58,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | [Array]() [Binary Search]() [Matrix]() | [java](code/SearchA2DMatrix/SearchA2DMatrix.java) |  |  |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Medium | [Array]() [Two Pointers]() [Sorting]() | [java](code/SortColors/SortColors.java) |  |  |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | Hard | [Hash Table]() [String]() [Sliding Window]() | [java](code/MinimumWindowSubstring/MinimumWindowSubstring.java) |  |  |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | [Array]() [Backtracking]() [Bit Manipulation]() | [java](code/Subsets/Subsets.java) |  |  |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Array]() [String]() [Backtracking]() [Matrix]() | [java](code/WordSearch/WordSearch.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
