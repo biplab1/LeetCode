@@ -66,6 +66,7 @@
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | Hard | [Array]() [Dynamic Programming]() [Stack]() [Matrix]() [Monotonic Stack]() | [java](code/MaximalRectangle/MaximalRectangle.java) |  |  |
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | Hard | [String]() [Dynamic Programming]() | [java](code/ScrambleString/ScrambleString.java) |  |  |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | [Array]() [Two Pointers]() [Sorting]() |  | [py](code/MergeSortedArray/MergeSortedArray.py) |  |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | Medium | [Array]() [Backtracking]() [Bit Manipulation]() | [java](code/SubsetsII/SubsetsII.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | [Array]() [Dynamic Programming]() [Greedy]() [Sorting]() | [java](code/Non-OverlappingIntervals/Non-OverlappingIntervals.java) |  |  |
