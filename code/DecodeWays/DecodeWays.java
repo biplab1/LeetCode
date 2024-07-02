@@ -1,3 +1,6 @@
+/*
+ * Method 1: Recursion + Memoization
+ */
 class Solution {
 
     private static int ways(char[] c, int p, int[] t) {
@@ -35,3 +38,24 @@ class Solution {
         }
     }
 }
+/*
+ * Method 2: Iterative DP
+ */
+/*
+ * class Solution {
+     public int numDecodings(String c) {
+        int a2 = 1;
+        int a1 = c.charAt(c.length()-1) != '0' ? 1: 0;
+        int a = 0;
+
+        for (int i = c.length() - 2; i >=0; i--) {
+            a = 0;
+            if (c.charAt(i) != '0') a += a1;
+            int num = 10 * (c.charAt(i)-'0') + (c.charAt(i+1) - '0');
+            if (num >= 10 && num <=26) a += a2;
+            a2 = a1; a1 = a;
+        }
+        return a1;            
+    }
+}
+ */
