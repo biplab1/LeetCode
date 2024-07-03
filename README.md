@@ -69,6 +69,7 @@
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | Medium | [Array]() [Backtracking]() [Bit Manipulation]() | [java](code/SubsetsII/SubsetsII.java) |  |  |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | Medium | [String]() [Dynamic Programming]() | [java](code/DecodeWays/DecodeWays.java) |  |  |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | Medium | [Linked List]() | [java](code/ReverseLinkedListII/ReverseLinkedListII.java) |  |  |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Easy | [Stack]() [Tree]() [Depth-First Search]() [Binary Tree]() | [java](code/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) |  |  |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [Array]() [Hash Table]() [String]() [Dynamic Programming]() [Trie]() [Memoization]() | [java](code/WordBreak/WordBreak.java) |  |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | [Array]() [Dynamic Programming]() | [java](code/HouseRobber/HouseRobber.java) |  |  |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | [Array]() [Dynamic Programming]() [Greedy]() [Sorting]() | [java](code/Non-OverlappingIntervals/Non-OverlappingIntervals.java) |  |  |
