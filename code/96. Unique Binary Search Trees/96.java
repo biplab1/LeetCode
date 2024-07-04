@@ -1,3 +1,7 @@
+/*
+ * Method 1: Recursion + Memoization
+ */
+
 class Solution {
     int[][] dp;
     public int numTrees(int n) {
@@ -25,3 +29,30 @@ class Solution {
         return dp[i][j] = count;
     }
 }
+
+/*
+ * Method 2: Recursion
+ */
+/*
+ * class Solution {
+    public int numTrees(int n) {
+        return solve(1, n);
+    }
+
+    private int solve(int i, int j) {
+        if (i >= j) {
+            return 1;
+        }
+
+        int count = 0;
+
+        for (int k = i; k <= j; k++) {
+            int left = solve(i, k - 1);
+            int right = solve(k + 1, j);
+            count += left * right;
+        }
+
+        return count;
+    }
+}
+ */
