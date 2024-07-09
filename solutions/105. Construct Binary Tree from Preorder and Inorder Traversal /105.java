@@ -18,7 +18,7 @@ class Solution {
     int p = 0;
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return solve(preorder, inorder, -3001);
+        return solve(preorder, inorder, -3001); // or one can use +3001 or Integer.MIN_VALUE
     }
 
     private TreeNode solve(int[] preorder, int[] inorder, int end) {

@@ -21,4 +21,4 @@ class Solution:
                     q.append(temp.right)
             depth += 1
         return depth
-        
+
