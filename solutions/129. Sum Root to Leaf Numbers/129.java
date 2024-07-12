@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int total = 0;
+    int total = 0; // to use static int, use System.gc() below
 
     public int sumNumbers(TreeNode root) {
         dfs(root, 0);
