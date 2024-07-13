@@ -17,7 +17,7 @@ public class Solution {
 
         ListNode temp = head;
 
-        while (temp != null) {
+        while (temp != null) { // or temp.next != null
             if (set.contains(temp)) return temp;
             set.add(temp);
             temp = temp.next;

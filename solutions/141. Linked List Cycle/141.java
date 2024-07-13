@@ -1,3 +1,6 @@
+/*
+Method 1.0:
+ */
 /**
  * Definition for singly-linked list.
  * class ListNode {
@@ -23,11 +26,13 @@ public class Solution {
                 return true;
             }
         }
-        
+
         return false;
     }
 }
-
+/*
+Method 1.1:
+ */
 /*
 public class Solution {
     public boolean hasCycle(ListNode head) {
@@ -46,7 +51,7 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        
+
         return false;
     }
 }
