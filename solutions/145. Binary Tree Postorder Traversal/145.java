@@ -1,3 +1,7 @@
+/*
+Method 1.0:
+ */
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -15,7 +19,7 @@
  */
 
 class Solution {
-    
+
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> postOrder = new ArrayList<>();
         if (root == null) {
@@ -28,6 +32,9 @@ class Solution {
     }
 }
 
+/*
+Method 1.1:
+ */
  /*
 class Solution {
     private void postOrderTraversal(TreeNode node, List<Integer> postOrder) {
