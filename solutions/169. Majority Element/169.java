@@ -1,4 +1,6 @@
-
+/*
+Method 1: Without Map
+ */
 class Solution {
     public int majorityElement(int[] nums) {
        int count = 0;
@@ -15,7 +17,9 @@ class Solution {
     }
 }
 
-
+/*
+Method 2: Using Map
+ */
 /*
 
 class Solution {
@@ -26,13 +30,12 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-
         for (int key : map.keySet()) {
             if (map.get(key) > nums.length / 2) {
                 return key;
             }
         }
-        
+
         return 0;
     }
 }
