@@ -13,7 +13,7 @@ Method 1:
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        
+
         if (head == null || head.next == null) {
             return true;
         }
@@ -58,7 +58,7 @@ class Solution {
 
 
 /*
-Method 2:
+Method 2: Using array
 */
 
 /**
@@ -74,7 +74,7 @@ Method 2:
  /*
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        
+
         List<Integer> arr = new ArrayList<>();
 
         while (head != null) {
