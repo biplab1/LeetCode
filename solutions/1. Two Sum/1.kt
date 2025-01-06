@@ -5,7 +5,7 @@ class Solution {
         for (i in nums.indices) {
             val complement = target - nums[i]
             if (map.containsKey(complement)) {
-                return intArrayOf(map[complement]!!, i)
+                return intArrayOf(map[complement]!!, i) // map.getOrDefault(complement, 0) instead of !!
             }
             map[nums[i]] = i
         }
