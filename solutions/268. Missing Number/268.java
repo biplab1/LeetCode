@@ -1,5 +1,5 @@
 /*
-Method 1
+Method 1:
 */
 
 class Solution {
@@ -15,7 +15,7 @@ class Solution {
 }
 
 /*
-Method 2
+Method 2:
 */
 /*
 class Solution {
