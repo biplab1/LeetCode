@@ -1,3 +1,9 @@
+/*
+Method 1.0: Two pointers
+TC: O(N)
+SC: O(1)
+ */
+
 class Solution {
     public boolean isPalindrome(String s) {
         int left = 0;
