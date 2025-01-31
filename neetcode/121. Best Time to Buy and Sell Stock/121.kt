@@ -1,6 +1,7 @@
 /*
-Method 1.0: Start with a buy price and if the buy price is more than the current buy price, update
-buy with that price and find the maximum profit.
+Method 1.0:
+Intuition: Whenever you come across a lower value stock update buy with that price and
+find the maximum profit (curr price - buy).
 TC: O(n)
 SC: O(1)
  */
