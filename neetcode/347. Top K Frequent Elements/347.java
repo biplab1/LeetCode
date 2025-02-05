@@ -1,3 +1,10 @@
+/*
+Method 1.0: Using minHeap
+Intution: build a frequency map and add key and count pairs to a minHeap, keep only the k most
+frequent numbers.
+TC: O(n log k)
+SC: O(n + k)
+ */
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
