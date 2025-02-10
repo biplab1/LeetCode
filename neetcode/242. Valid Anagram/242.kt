@@ -1,8 +1,6 @@
 /*
 Method 1.0:
-Intuition: If strings are unequal return false. Create a character frequency map of string s and then reduce the frequency count while
-parsing string t, if any character frequency count is negative then return false.If the previous condition is not met after complete
-traversal return true.
+Intuition: Compare their character counts. Edge case: unequal lengths.
 TC: O(N)
 SC: O(1)
  */
